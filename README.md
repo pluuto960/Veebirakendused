@@ -3,4 +3,8 @@
  2. Javascript
  3. PHP
  4. WordPress
- 5. 
+
+    ## Moodle Kursus - https://moodle.edu.ee/course/view.php?id=13013
+
+    Tarkvara KODUS - Visual Studio Code
+    Web Storm võib kasutada kooli kontoga sisselogimises eesnimi.perekonnanimi@tthkee.onmicrosoft.com
