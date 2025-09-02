@@ -1,0 +1,43 @@
+h1{
+    background-color: darkred; /*tausta värv*/
+    color: teal; /*teksti värv*/
+
+
+}
+header, footer{
+    font-family: Comic Sans;
+    font-size: large;
+    width : 80%;
+    border: 3px solid grey; /*dashed, dotted, double, outline*/
+    background-color: darkred;
+    border-radius : 25px;
+    padding : 1%; /*vahe teksti ja piiri vahel*/
+
+}
+nav ul{
+    list-style-type: none;
+    text-align: center; /*teksti joondamine keskele*/
+    margin: 2%;
+    padding: 0;
+    background-color: darksalmon;
+}
+nav li{
+    float: left;
+    padding: 1%;
+}
+main{
+    margin: 50px;
+    padding: 1%;
+}
+nav a:hover{ /*Link on fookuses, hiir peal siis muudab värvi*/
+    background-color: grey;
+}
+nav li a{
+    font-family: Georgia;
+    font-size: medium;
+    text-decoration: none;
+    border-left: 1pt solid grey;
+    border-right: 1pt solid grey;
+    border-radius: 120px;
+    padding: 10px;
+}
