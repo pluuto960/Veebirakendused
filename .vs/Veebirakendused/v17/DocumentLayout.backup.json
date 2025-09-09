@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\Desktop\\Veebirakendused\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Desktop\\Veebirakendused\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Desktop\\Veebirakendused\\harjutused\\tekstelemendid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\harjutused\\tekstelemendid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:harjutused\\tekstelemendid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\Veebirakendused\\index.html",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\opilane\\Desktop\\Veebirakendused\\index.html",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\index.html",
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "tekstelemendid.html",
-              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\Veebirakendused\\harjutused\\tekstelemendid.html",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\harjutused\\tekstelemendid.html",
               "RelativeDocumentMoniker": "harjutused\\tekstelemendid.html",
-              "ToolTip": "C:\\Users\\opilane\\Desktop\\Veebirakendused\\harjutused\\tekstelemendid.html",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\pluuto960\\Veebirakendused\\harjutused\\tekstelemendid.html",
               "RelativeToolTip": "harjutused\\tekstelemendid.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
