@@ -1,0 +1,86 @@
+
+/**************** table id=lihtne*******************/
+#lihtne{
+    width: 60%;
+    border: 1px solid black;
+    height: 200px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#lihtne td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+/*Pseudostiilide kasutamine*/
+#lihtne tr:nth-child(1) td:nth-child(1){ /*1. rida 1.lahter*/
+    background-color: darkgrey;
+}
+#lihtne tr:nth-child(1) td:nth-child(2){
+    background-color: brown;
+}
+#lihtne tr:nth-child(2) td:nth-child(1){ /*2. rida 1.lahter*/
+    background-color: teal;
+}
+#lihtne tr:nth-child(2) td:nth-child(2){
+    background-color: grey;
+}
+
+/**************** table id=keeruline1*******************/
+#keeruline1{
+    width: 40%;
+    border: 1px solid black;
+    height: 150px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline1 td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+/**************** table id=keeruline2*******************/
+#keeruline2{
+    width: 50%;
+    border: 1px solid black;
+    height: 175px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline2 td{
+    border: 1px solid black;
+    text-align: center;
+}
+/**************** table id=keeruline3*******************/
+#keeruline3{
+    width: 50%;
+    border: 1px solid black;
+    height: 175px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline3 td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+/*#keeruline3 tr:nth-child(1) td:nth-child(1){ !*1. rida 1.lahter*!*/
+/*    background-color: darkgrey;*/
+/*}*/
+/*#keeruline3 tr:nth-child(1) td:nth-child(2){*/
+/*    background-color: brown;*/
+/*}*/
+/*#keeruline3 tr:nth-child(2) td:nth-child(1){ !*2. rida 1.lahter*!*/
+/*    background-color: teal;*/
+/*}*/
+/*#keeruline3 tr:nth-child(2) td:nth-child(2){*/
+/*    background-color: grey;*/
+/*}*/
+/**************** table id=keeruline4*******************/
+#keeruline4{
+    width: 50%;
+    border: 1px solid black;
+    height: 175px;
+    border-collapse: collapse; /*üks joon borderis*/
+}
+#keeruline4 td{
+    border: 1px solid black;
+    text-align: center;
+}
