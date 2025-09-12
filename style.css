@@ -10,8 +10,15 @@ header, footer{
     width : 80%;
     border: 3px solid grey; /*dashed, dotted, double, outline*/
     background-color: darkred;
-    border-radius : 25px;
+    border-radius : 120px;
     padding : 1%; /*vahe teksti ja piiri vahel*/
+
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
 
 }
 nav ul{
@@ -41,3 +48,79 @@ nav li a{
     border-radius: 120px;
     padding: 10px;
 }
+/***************************section********************************/
+section#osa1{
+    display: inline-block;
+    width: 20%;
+    border-right: 5px solid blueviolet;
+    border-bottom: 5px solid blue;
+    border-radius: 60px;
+    padding: 2%;
+    margin-top: 10px;
+}
+section#osa1 h3{
+    text-align: center;
+    background-color: grey;
+    border-radius: 60px;
+    padding : 2%;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+section#osa2{
+    display: inline-block;
+    width: 20%;
+    border-right: 5px dotted blueviolet;
+    border-bottom: 5px dotted blue;
+    border-radius: 60px;
+    padding: 2%;
+    margin-top: 10px;
+}
+section#osa2 h3{
+    text-align: center;
+    background-color: grey;
+    border-radius: 60px;
+    padding : 2%;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+section#osa3{
+    display: inline-block;
+    width: 20%;
+    border-right: 5px dashed blueviolet;
+    border-bottom: 5px dotted blue;
+    border-radius: 60px;
+    padding: 2%;
+    margin-top: 10px;
+}
+section#osa3 h3{
+    text-align: center;
+    background-color: grey;
+    border-radius: 60px;
+    padding : 2%;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+section#pildigalerii h3{
+    margin-top: 20px;
+}
+
+section#pildigalerii h3{
+    margin-top: 20px;
+}
+section#video h3{
+    margin-top: 20px;
+}
+section#laul h3{
+    margin-top: 20px;
+}
+section#kaart h3{
+    margin-top: 20px;
+}
+
+
+
+
+
